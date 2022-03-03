@@ -28,8 +28,6 @@
 
 ### Open the command line for index.js, run “Node index.js” and the input question will appear on the terminal after the prompts are answered the README will automatically be generated and saved in a folder named “Develop”.
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/28612070/156500238-52c1b406-e2d0-4565-a6c4-711e9f9649cb.gif)
-
 
 ## Contributors:
 

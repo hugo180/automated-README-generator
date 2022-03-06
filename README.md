@@ -27,7 +27,7 @@
 ## Usage:
 
 ### Open the command line for index.js, run “Node index.js” and the input question will appear on the terminal after the prompts are answered the README will automatically be generated and saved in a folder named “Develop”.
-###Here is the linnk to view how to run the project: (https://youtu.be/1DX3NpPP7PQ)
+### Here is the link to view how to run the project: (https://youtu.be/1DX3NpPP7PQ)
 
 
 ## Contributors:
